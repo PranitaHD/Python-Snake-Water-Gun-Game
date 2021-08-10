@@ -1,0 +1,2 @@
+# Python-Snake-Water-Gun-Game
+Language :- Python Programming. Snake-Water-Gun is a game , most of us played during school time.  It is a program in Python which is capable of playing this game with you. Conditions :-   In Snake and Gun --> Gun wins,                           In Gun and Water --> Water wins,                           In Snake and Water --> Snake wins. You will be playing this game for 5 number of times. Here Computer's , Player's and Tie Points will be displayed. At the end Total Points will be displayed with the Winner.  I have used Visual Studio Code here.
